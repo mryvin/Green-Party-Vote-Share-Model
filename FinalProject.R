@@ -1,4 +1,4 @@
-setwd("/Users/mryvi/Documents/DataPolitical")
+setwd()
 
 library(dplyr)
 library(tidyverse)
