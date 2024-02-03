@@ -42,7 +42,7 @@ Dataset can be found here: https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp
   <li><b>Approach:</b> A regression model was used with the Greens/EFA percentage of seats held by varying independent variables. Stepwise regression was utilize to narrow down possible indpendent variables.</li>
 </ul>
 <h2>Results</h2>
-More information about Results can be found here: <a href=“Poster.pdf”>Poster.pdf</a>
+More information about Results can be found here: <a href=Poster.pdf>Poster.pdf</a>
 <table>
   <tr>
     <th>Statistical Data</th>
