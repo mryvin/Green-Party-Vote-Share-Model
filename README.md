@@ -29,7 +29,7 @@ Dataset can be found here: https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp
 </head>
 <body>
 <h1>Predicting Greens/EFA Support in the European Parliament</h1>
-<p>This project uses a regression model to predict the Greens/EFA seat share in each country in the EU based on polls of various political issues. The project aims to understand if there is a new "green student" effect, where more EU students are aligned with green parties.</p>
+<p>This project uses a regression model to predict the Greens/EFA seat share in each country in the EU based on polls of various political issues. The project aims to understand the reasons why people may support or oppose green parties in the EU.</p>
 <h2>Background</h2>
 <ul>
   <li><b>Research Question:</b> Are gains in seats for Greens/EFA parties within specific European Parliamentary geographies?</li>
@@ -86,6 +86,6 @@ Dataset can be found here: https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp
 <h2>Author</h2>
 <p>Michael Ryvkin, Rutgers University</p>
 <h2>Source</h2>
-<p>This readme file is based on the research poster by the same author, available at <a href="https://bit.ly/3xZ2qL4">https://bit.ly/3xZ2qL4</a></p>
+<p>The polling data used in this study came from the World Values Survey and is available at <a href="https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp">https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp</a></p>
 </body>
 </html>
